@@ -1,4 +1,4 @@
-# undergrad-code
+# undergrad-code-python
 A collection of some of my favorite python coding assignments I had to write for a class called CS 2316, Data Manipulation for Science and Industry, as an undergrad at Tech.
 
 I particularly enjoyed these four projects because they emphasize practicality. In the best case scenario, they can be modified slightly and be used immediately in a professional environment; otherwise, they contain the foundations to which I can build a more rigorous, professional implementation upon.
